@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Nishit Bohra 👋
 
-<!--
-**nishitbohra/nishitbohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 M.Tech Candidate in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology
+- 💻 Passionate about Machine Learning, Data Science, and Predictive Modeling
+- 📫 How to reach me: mnishitbohra@gmail.com
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+!Python
+!TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+!Nishit's GitHub stats
+
+### 🔗 Connect with Me
+!LinkedIn

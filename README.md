@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishit Bohra</h1>
 <h3 align="center">Aspiring AI/ML Specialist | Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/23136797-Animation-Of-A-Man-Working-At-The-Computer-From-Home.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 
 - 🌱 I’m currently learning **Generative AI**
